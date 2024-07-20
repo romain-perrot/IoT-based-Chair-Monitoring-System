@@ -123,6 +123,6 @@ This project is licensed under the MIT License.
 
 ---
 
-For more detailed information, visit our [project website](#) or watch our [video demonstration](#).
+For more detailed information, visit our [project website](https://jcduong77.wixsite.com/seattrack) and watch our [video demonstration](#).
 
 © 2023 by Oscar BIGNO, James DUONG, and Romain PERROT.
